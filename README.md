@@ -118,6 +118,10 @@ composer create-project laravel/laravel .
 ```
 O **.** instala na pasta atual (/var/www), que é o src/ do seu host.
 
+**OBS:** caso não consiga instalar o laravel, remova todos os arquivos/pastas do dir xxx/var/www$
+```bash
+rm -R public/
+```
 
 Ou...
 
